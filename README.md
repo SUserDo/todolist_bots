@@ -1,0 +1,5 @@
+CREATE FILE WITH NAME .env
+
+ADD TO FILE .ENV =  TOKEN=YOUR_NAME
+
+ADD TO FILE .ENV = DB_LITE=DB_LITE=sqlite+aiosqlite:///my_base.db
